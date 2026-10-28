@@ -1,6 +1,6 @@
 /* MD Editor service worker: versioned cache + safe offline fallback. */
 const CACHE_PREFIX = 'md-editor-';
-const CACHE_NAME = 'md-editor-v3';
+const CACHE_NAME = 'md-editor-v4';
 const APP_SHELL = [
   './',
   './index.html',
